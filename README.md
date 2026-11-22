@@ -52,6 +52,5 @@
 ![Codex](https://img.shields.io/badge/Codex-7C3AED?style=flat-square\&logo=openai\&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-DB2777?style=flat-square\&logo=cursor\&logoColor=white)
 
----
 
 
