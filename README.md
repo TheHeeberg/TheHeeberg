@@ -54,10 +54,4 @@
 
 ---
 
-## 📝 Blog
 
-<p align="center">
-  <a href="https://yeefayai.github.io">
-    <img src="https://img.shields.io/badge/YeeFay_AI_Blog-yeefayai.github.io-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</p>
